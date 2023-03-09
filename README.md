@@ -60,11 +60,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Boostrap Desktop version project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> I built a Desktop version project using Bootstrap 
 
-**[your_project__name]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -73,21 +72,21 @@ After you're finished please remove all the comments and instructions!
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
-  <summary>Client</summary>
+  <summary>HTML</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>CSS</summary>
   <ul>
     <li><a href="https://expressjs.com/">Express.js</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Database</summary>
+<summary>Bootstrap</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
@@ -99,17 +98,17 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Linters SetUp]**
+- **[Follow Bootstrap HTML and CSS best practice]**
+- **[Display Text]**
+- **[Follow GitHub flow]**
+- **[clean UI]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://google.com)
 
@@ -119,83 +118,53 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+Any code editor
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+Clone this repository to your desired folder:(https://github.com/wolterbwambale/Bootstrap-Desktop-version.git)
 
 ### Install
 
 Install this project with:
 
-<!--
+  npm
 Example command:
-
 ```sh
   cd my-project
-  gem install
+  npm init -y
 ```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
+npm start or live server
 Example command:
-
 ```sh
-  rails server
+  GitHub Pages Server
 ```
---->
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
+npm test
 Example command:
-
 ```sh
-  bin/rails test test/models/article_test.rb
+  npx stylelint "**/*.{css,scss}"
 ```
---->
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
-
-```sh
-
-```
- -->
+It will be deployed after merge
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,15 +176,22 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/wolterbwambale/mobile-portfolio)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bwambale-benny-wolter-a9284925a/)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Dorcas126](https://github.com/Dorcas126)
+- Twitter: [DorcasDorc2](https://twitter.com/DorcasDorc2)
+- LinkedIn: [Uwimbabazi Dorcas](www.linkedin.com/in/uwimbabazi-dorcas-956a5a226)
+
+👤 **Author3**
+
+- GitHub: [samreenmj](https://github.com/samreenmj)
+- Twitter: [MujtabaSamreen](https://twitter.com/MujtabaSamreen)
+- LinkedIn: [Samreen-Mujtaba](https://www.linkedin.com/in/samreen-mujtaba-4b18561b6/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
