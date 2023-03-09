@@ -176,9 +176,9 @@ It will be deployed after merge
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/wolterbwambale/mobile-portfolio)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bwambale-benny-wolter-a9284925a/)
 
 👤 **Author2**
 
@@ -188,9 +188,9 @@ It will be deployed after merge
 
 👤 **Author3**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [samreenmj](https://github.com/samreenmj)
+- Twitter: [MujtabaSamreen](https://twitter.com/MujtabaSamreen)
+- LinkedIn: [Samreen-Mujtaba](https://www.linkedin.com/in/samreen-mujtaba-4b18561b6/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
